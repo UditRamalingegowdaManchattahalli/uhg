@@ -1,0 +1,7 @@
+com/odx/test/TestApplication.class
+com/odx/test/repository/impl/PalindromicRepositoryImpl.class
+com/odx/test/entity/Demo.class
+com/odx/test/controller/PalindromicController.class
+com/odx/test/service/PalindromicService.class
+com/odx/test/service/impl/PalindromicServiceImpl.class
+com/odx/test/repository/PalindromicRepository.class
