@@ -1,0 +1,37 @@
+{
+	"info": {
+		"_postman_id": "259718f7-8cc5-4391-bfd9-116f94d1d8df",
+		"name": "UHG",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "http://localhost:8080/palindromic/longestPalindromic?text=bababbdbababad",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/palindromic/longestPalindromic?text=bababbdbababad",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"palindromic",
+						"longestPalindromic"
+					],
+					"query": [
+						{
+							"key": "text",
+							"value": "bababbdbababad"
+						}
+					]
+				},
+				"description": "POST-request"
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}
